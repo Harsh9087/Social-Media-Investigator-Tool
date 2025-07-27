@@ -1,0 +1,2 @@
+Social Media Investigator Tool (SMIT) is a Python-based automation application developed for Smart India Hackathon 2024. It streamlines the digital evidence collection process for investigation officers by automating Facebook login, scraping the friends list, and capturing screenshots — all neatly organized per case. It features a simple Tkinter-based GUI, auto-generated case IDs, and expandable support for other platforms like Instagram and WhatsApp.
+
